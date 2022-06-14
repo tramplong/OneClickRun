@@ -48,14 +48,14 @@
   "bfjiequshuzuqian": "class=\"module-play-list-", //播放截取的列表数组的前关键词
   "bfjiequshuzuhou": "</div>", //播放截取的列表数组的后关键词
 
-  "zhuangtaiqian": "video-info-item\">", //状态前关键词
+  "zhuangtaiqian": "备注：</span>", //状态前关键词
   "zhuangtaihou": "</div>", //状态后关键词
   "daoyanqian": "导演：</span>", //导演前关键词
   "daoyanhou": "</div>", //导演态后关键词
   "zhuyanqian": "主演：</span>", //主演前关键词
   "zhuyanhou": "</div>", //主演后关键词
-  "juqingqian": "class=\"zkjj_a\">", //剧情前关键词
-  "juqinghou": "<span", //剧情后关键词
+  "juqingqian": "introduction-content\"><p>", //剧情前关键词
+  "juqinghou": "</p>", //剧情后关键词
 
   "bfyshifouercijiequ": "0", //截取的播放列表数组是否需要二次截取，0不需要，1需要
   "bfyjiequqian": "空", //不需要二次截取就填空
